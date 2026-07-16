@@ -15,7 +15,7 @@ Ask me about<br>
 Data analysis fundamentals, Power BI dashboards, SQL queries, Excel analytics, internship level BI work, and football analytics metrics like xG and xA.<br><br>
 
 Fun fact<br>
-I enjoy turning messy datasets into clear insights, whether it's a business dashboard or a football match's shot data.<br><br>
+I enjoy turning messy datasets into clear insights, whether it's a business dashboard or a football match's .<br><br>
 
 
 
