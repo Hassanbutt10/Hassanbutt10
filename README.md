@@ -1,5 +1,23 @@
 # 💫 About Me:
-Here is a clean, professional version you can use for LinkedIn, GitHub, or a portfolio bio. No emojis, no em dashes.<br><br>I’m currently working on<br>Building data analytics projects using SQL, Python, Excel, and Power BI, with a focus on dashboards, data cleaning, and business insights.<br><br>I’m looking to collaborate on<br>Entry level data analytics, business intelligence, and data visualization projects where real world datasets are used.<br><br>I’m looking for help with<br>Improving end to end analytics workflows, portfolio feedback, and guidance for analytics roles and MS programs in Germany.<br><br>I’m currently learning<br>Advanced SQL, Power BI modeling, Python for data analysis, and basic cloud analytics concepts.<br><br>Ask me about<br>Data analysis fundamentals, Power BI dashboards, SQL queries, Excel analytics, and internship level BI work.<br><br>Fun fact<br>I enjoy turning messy datasets into clear insights and simple visuals that actually make sense.<br><br>I
+I'm currently working on<br>
+Building data analytics projects using SQL, Python, Excel, and Power BI, with a focus on dashboards, data cleaning, and business insights. I'm also building football analytics projects, including an xG model using event data from public football datasets.<br><br>
+
+I'm looking to collaborate on<br>
+Entry level data analytics, business intelligence, and data visualization projects where real world datasets are used. Also open to football analytics projects involving match data and performance metrics.<br><br>
+
+I'm looking for help with<br>
+Improving end to end analytics workflows, portfolio feedback, and guidance for analytics roles and MS programs in Germany.<br><br>
+
+I'm currently learning<br>
+Advanced SQL, Power BI modeling, Python for data analysis, and applied football analytics including xG models and event data.<br><br>
+
+Ask me about<br>
+Data analysis fundamentals, Power BI dashboards, SQL queries, Excel analytics, internship level BI work, and football analytics metrics like xG and xA.<br><br>
+
+Fun fact<br>
+I enjoy turning messy datasets into clear insights, whether it's a business dashboard or a football match's shot data.<br><br>
+
+
 
 
 ## 🌐 Socials:
